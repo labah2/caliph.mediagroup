@@ -366,13 +366,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default.mpd
 #EXTINF:-1 group-title="KOREA"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png",KPLUS HD 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="MY080:KBS World HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="ASTRO KOREA",KBS World HD (OK)
+#EXTINF:-1 tvg-id="" tvg-name="MY080:KBS World HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="KOREA",KBS World HD (OK)
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71052
 
-#EXTINF:-1 tvg-id="" tvg-name="MY081:ONE HD" tvg-logo="https://aqfadtv.xyz/logos/ONE.png" group-title="ASTRO KOREA",ONE HD (OK)
+#EXTINF:-1 tvg-id="" tvg-name="MY081:ONE HD" tvg-logo="https://aqfadtv.xyz/logos/ONE.png" group-title="KOREA",ONE HD (OK)
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71053
 
-#EXTINF:-1 tvg-id="" tvg-name="MY139:KPLUS HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="ASTRO KOREA",KPLUS HD (OK)
+#EXTINF:-1 tvg-id="" tvg-name="MY139:KPLUS HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="KOREA",KPLUS HD (OK)
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71111
 
 #EXTINF:-1 group-title="KOREA"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png", KBSW HD 
