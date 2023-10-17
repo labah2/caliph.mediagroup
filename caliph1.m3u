@@ -1,5 +1,3 @@
-#caliph1.m3u﻿
-
 #EXTM3U
 #EXTINF:-1 tvg-id="101" ch-number="101" group-title="1.MY ONLINE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png",101 (TV1)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -16,110 +14,28 @@ https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 #EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="1.MY ONLINE",RTB Sukmaindera 
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
-#EXTINF:-1 group-title="1.MY ONLINE"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+#EXTINF:-1 group-title="1.MY ONLINE"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",CITRA HD
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/26
 
+#EXTINF:-1 tvg-id="" tvg-name="MY001:TV 1" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",TV 1
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1734
 
+#EXTINF:-1 tvg-id="" tvg-name="MY002:TV 2" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",TV 2
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1733
 
-################################################################## TESTING ####################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="MY003:TV 3" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",TV 3
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1732
 
+#EXTINF:-1 tvg-id="" tvg-name="MY004:NTV 7" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",NTV 7
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1731
 
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
-#https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+#EXTINF:-1 tvg-id="" tvg-name="MY005:TV 8" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",TV 8
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1730
 
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://didik.tv/images/logotv2.png", NTV7 
-https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/ https://aqfadtv.xyz/live/didiktvkpm/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="MY006:TV 9" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",TV 9
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1729
 
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/8TV_%28Malaysia%29_logo_in_English.svg/640px-8TV_%28Malaysia%29_logo_in_English.svg.png", 8TV 
-https://aqfadtv.xyz/live/8tv/index.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/476px-TV9_Malaysia_Logo_2021.png", TV9 
-https://aqfadtv.xyz/live/tv9/index.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD 
-https://centerrrs.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9X1Uzxq6NAAqGASx47cKgqfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080121%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080121%2Curn:Huawei:liveTV:iptv47777%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOXQuCMBiF_80uR5s25sWuiiCIFWTdxuv2usTpbLOgf5-WXZ6P53DGCAb3W1Wtpcmx4NbWeV5gNWkQmQCb1RIlCpLwoYPixID3Te90sDN2PW9ubEVXlHNGGSflPLfz4JamfnYVRpX9sTPGV2NQ2VTTFyQKzkV0MDahpycP70v0S4VguVxjQhRc5oJzIRkZZ7eE1E4JuUPahG6AiPYQ3BdQNfiEZADTgkMNHar-6f2PO0Y7vfkAzoOp1vQAAAA&tenantId=6001
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",SENSASI 
-http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3606.mpd https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=rKYifC4cgUH4ajqf5oEB0Z2I03cm4d2TMQnQ6CSa3m3t3RxCUoK5rFP47blvMbDbJxhCD7QhYxY3hz3Xy08%2F4ggYU9UMh1fxCV547C0d2qBt5J0dsgfU28LWZM15p3G2%3A20230918144514%3AUTC%2C10001003897360%2C27.125.250.92%2C20230918144514%2Curn:Huawei:liveTV:SP000004015718%2C10001003897360%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0006%2C%2C%2C2%2C10000106865763%2C0%2C10000104587428%2C3028494234%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.165_80&hms_devid=1765&mag_hms=1765,1788,1794,1792&mount=1000002&targetdev=1765&it=H4sIAAAAAAAAAzWMTQsCIRQA_43Hx_qxlQdPRdBFgq2u8dSXCLaSbgv9-9qo6zAzU0VPh53ZcOo7J1FprpSSQeverYLQH0RerR1r9LDFSOYx5zRGW8KSXYbtlXfQgRAcJGenZbfPGI34mvZ5d1QN_2cD1Tl5MqHdYMYGGGOliFMqIxwzvs41_5Q30mXu4pkAAAA
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Hypp Inspirasi 
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live29.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", DEGUP 
-https://centerrrs.hypp.tv/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png",SIAR 
-https://centerrrs.hypp.tv/PLTV/88888888/224/3221227948/3221227948.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=nR3IWnuvgquP%2F8My8iyxx%2BoxnuQhQQA9yraVG9ZBgJG7lGYp3EaTqDAXfA4S%2BPVgQpTIHrOhXCgOoaP1Jv59qvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124221801%3AUTC%2C1001767138%2C27.125.242.143%2C20221124221801%2Curn:Huawei:liveTV:XTV56919296%2C1001767138%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C3073678270%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOywrCMBRE_ybLkEfjY5GVIghSBatbuUluY2naaFIF_16rdTszZzhDAovbtXa1xDmzxihbFMViaRTjzjFVc4NWMiAZ72XUglgIoel9Gd2InY-rC2eUUSE45YJU490mgJ-W5aMzmLT8Y0dMz8aidrmmT8gUvE_oYWhiTw8BXqcUpgnBalLjs9lSSrVQc6kEGca0gtx-GnKFvIrdDRK6XfRfQNcQMpIb2BY8ltCh7h8h_Lh9ch-bN5RyWgv0AAAA&tenantId=6001
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310",Dunia Sinema HD 
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8 
-#https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5 
-https://live.mana2.my/Tv5/index.m3u8?auth_key=1695109345-fabcb559a7c14e57850a164ec09d47bc-0-cde4b57c991b35fe0d2dded6c5600e97&token=1695109345-fabcb559a7c14e57850a164ec09d47bc-0-cde4b57c991b35fe0d2dded6c5600e97
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6 
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png", TV ALHIJRAH 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",SUKE TV 
-https://live.mana2.my/SukeTv/index.m3u8?auth_key=1695109423-313e465d55b14e4dbce188898320f7ce-0-3ee9f7ddcd714af1e1f1f4814fd31c63&token=1695109423-313e465d55b14e4dbce188898320f7ce-0-3ee9f7ddcd714af1e1f1f4814fd31c63
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVSarawak.png", TVS 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png",TV Okey 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png", Awesome TV 
-https://aqfadtv.xyz/live/awesometv/index.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/23
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 
-https://us.dispatch.ulivetv.net/v/live/cg49a7nnj64g.m3u8?stream_id=cg49a7nnj64g&timestamp=1695742025&rand=qKW2DPbXcM&uuid=jHpT5hpwmLn4sdQFSc6dnt&from=web&sign=cbed8a8b0a5374dc51676dd347e08c3c|referer=https://www.histar.tv
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", OASIS HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
-https://us.dispatch.ulivetv.net/v/live/cg4ao9s4cbeo.m3u8?stream_id=cg4ao9s4cbeo&timestamp=1695741549&rand=JOh9Xftyg5&uuid=aXLvgeKovvvZBwiur48g83&from=web&sign=7930733c915433a226d9758e4b60b41d|referer=https://www.histar.tv
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", AURA HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi HD 
-http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts https://co2-bks400-05.starhubgo.com/bpk-token/2ab@ltq53pwlc4x5jspmlp4c4b51520e2p5tlnq3uxca/bpk-tv/HubSensasiHD/output/manifest.mpd?bkm-query
-
-#EXTINF:-1 group-title="MY OFFLINE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png",Colors HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png", COLORS HD 2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png", COLORS TAMIL 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png", THANGATHIRAI HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png",Box Office Bollyone HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png",Zee Cinema HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
-
-#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png", Zee Cinema 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
-
-########################################################## INDONESIA ##########################################################################################
+########################################################## 2.INDONESIA ##########################################################################################
 
 #EXTINF:-1 group-title="2.INDONESIA",ADiTV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
@@ -188,74 +104,16 @@ http://tvkuonline.my.id:25461/riyad/riyad/16
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="2.INDONESIA"catchup="", Trans 7 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-########################################################### KIDS ############################################################################################
+########################################################### 3.KIDS ###########################################################
 
-#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="KIDS ONLINE", Boomerang 
+#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="3.KIDS",Boomerang 
 http://starshare.live:8080/live/Pirates/Pirates/143069.ts 
 
-#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="KIDS ONLINE",Cartoon Network 
+#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="3.KIDS",Cartoon Network 
 http://starshare.live:8080/live/Pirates/Pirates/143070.ts
 
-#EXTINF:-1 tvg-logo="https://www.livehdtv.net/uploads/kanal/286103abn-kids.png" group-title="KIDS ONLINE", 3ABN Kids 
-https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
-
-
-########################################################## CHINESE ############################################################################################
-
-#EXTINF:-1 group-title="CHINESE"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png", iQIYI HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
-
-#EXTINF:-1 group-title="CHINESE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png", iQIYI HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default.mpd
-
-#EXTINF:-1 group-title="CHINESE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Magic.png",TVB Magic 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5107/default.mpd
-
-#EXTINF:-1 group-title="CHINESE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png", CELESTIAL HD 
-https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-
-#EXTINF:-1 group-title="CHINESE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png",Celestial Movies HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
-
-#EXTINF:-1 group-title="CHINESE"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png", CCM 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
-
-#EXTINF:-1 group-title="CHINESE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png",CCM 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
-
-###################################################################### KOREAN #################################################################################
-
-#EXTINF:-1 group-title="KOREA"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png",KBS World 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
-
-#EXTINF:-1 group-title="KOREA"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png", KBSW HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
-
-#EXTINF:-1 group-title="KOREA"  tvg-logo="https://aqfadtv.xyz/logos/ONE.png",ONE 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
-
-#EXTINF:-1 group-title="KOREA"  tvg-logo="https://aqfadtv.xyz/logos/ONE.png", ONE HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default.mpd
-
-#EXTINF:-1 group-title="KOREA"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png",K Plus 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
-
-#EXTINF:-1 group-title="KOREA"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png", KPLUS 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
-
-#EXTINF:-1 group-title="KOREA"  tvg-logo="https://aqfadtv.xyz/logos/tvN.png",tvN 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
-
-#EXTINF:-1 group-title="KOREA"  tvg-logo="https://aqfadtv.xyz/logos/tvN.png", tvN HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default.mpd
-
-#EXTINF:-1 group-title="KOREA"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
-
-#EXTINF:-1 group-title="KOREA"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
-
-################### KIDS ###############################################
+#EXTINF:-1 tvg-logo="https://www.livehdtv.net/uploads/kanal/286103abn-kids.png" group-title="3.KIDS",3ABN Kids 
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8  
 
 #EXTINF:-1 group-title="3.KIDS"  tvg-logo="http://playtv.unifi.com.my:7038/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png",Animax 
 https://centerrrs.hypp.tv/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487VK201C73xHPJjGvTHv3JiPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082916%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082916%2Curn:Huawei:liveTV:XTV57622558%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy2rDMBRE_0ZLoUcqOQutUgKB4gbidlvG1rViIlup5ATy941bdzszZzhzRkeHVwctoavqRWmvN0a0sBslWrLopRWwhhX6rpNTrEOMwxTq5Bfs87T7koILrpTkUrFmudtHhHVZ38aWstP_2InyfejI-dLzOwpHCJkC5iFN_Bjx-MhxnTBqVjVpzFZVRkpj7ZbNS9qgXJ4NO6Ps0nhFJv-Wwi_gesRC7IrugkA1RnLTLcY_7j37p80PI8646_QAAAA&tenantId=6001
@@ -323,46 +181,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemach
 #EXTINF:-1 group-title="3.KIDS"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png", KIDS TV 
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
-################### SPORTS #######################################################################################
-
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="ONLINE", beIN Sports 
-http://starshare.live:8080/live/Pirates/Pirates/143059.ts 
-
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="ONLINE",beIN Sports 2 
-http://starshare.live:8080/live/Pirates/Pirates/143060.ts 
-
-#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="ONLINE",beIN Sports 2 
-http://starshare.live:8080/live/Pirates/Pirates/143061.ts 
-
-#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="ONLINE", beIN Sports 3 
-http://starshare.live:8080/live/Pirates/Pirates/143062.ts 
-
-#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="ONLINE", beIN Sports 3 
-http://starshare.live:8080/live/Pirates/Pirates/143063.ts 
-
-#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="ONLINE", beIN Sports 50 
-http://starshare.live:8080/live/Pirates/Pirates/143064.ts 
-
-#EXTINF:-1 group-title="ONLINE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png", ASSP2 HD 
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115616_&extension=ts
-
-#EXTINF:-1 group-title="ONLINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png",Sukan RTM 
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
-
-#EXTINF:-1 group-title="ONLINE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", ASSP HD 
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_token=oNnNMlQM3k
-
-#EXTINF:-1 group-title="ONLINE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png", ASSP2 HD 
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186388&extension=ts&play_token=oNnNMlQM3k
-
-#EXTINF:-1 group-title="ONLINE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png", ASSP3 HD 
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extension=ts&play_token=oNnNMlQM3k
-
-#EXTINF:-1 group-title="ONLINE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png", ASSP4 HD 
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186390&extension=ts&play_token=oNnNMlQM3k
-
-
-#################################################################### MOVIES ##################################################################################
+#################################################################### 4.MOVIES ####################################################################
 
 #EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="4.MOVIES", HBO 
 http://starshare.live:8080/live/Pirates/Pirates/143100.ts 
@@ -376,7 +195,7 @@ http://starshare.live:8080/live/Pirates/Pirates/143102.ts
 #EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="4.MOVIES",BOO 
 http://starshare.live:8080/live/Pirates/Pirates/143068.ts 
 
-############################################## NEWS ####################################################
+#################################################################### 5.NEWS ####################################################################
 
 #EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="5.NEWS",Bernama 
 http://starshare.live:8080/live/Pirates/Pirates/143065.ts 
@@ -387,84 +206,188 @@ http://starshare.live:8080/live/Pirates/Pirates/143067.ts
 #EXTINF:-1 group-title="5.NEWS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png", AWANI HD 
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#################################################################### DOCUMENTARY ####################################################################################
+#################################################################### 6.SPORTS ####################################################################
 
-##EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png", HISTORY HD 
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="6.SPORTS",beIN Sports 
+http://starshare.live:8080/live/Pirates/Pirates/143059.ts 
+
+#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="6.SPORTS",beIN Sports 2 
+http://starshare.live:8080/live/Pirates/Pirates/143060.ts 
+
+#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="6.SPORTS",beIN Sports 2 
+http://starshare.live:8080/live/Pirates/Pirates/143061.ts 
+
+#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="6.SPORTS",beIN Sports 3 
+http://starshare.live:8080/live/Pirates/Pirates/143062.ts 
+
+#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="6.SPORTS",beIN Sports 3 
+http://starshare.live:8080/live/Pirates/Pirates/143063.ts 
+
+#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="6.SPORTS",beIN Sports 50 
+http://starshare.live:8080/live/Pirates/Pirates/143064.ts 
+
+#EXTINF:-1 group-title="6.SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",ASSP2 HD 
+http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115616_&extension=ts
+
+#EXTINF:-1 group-title="6.SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png",Sukan RTM 
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
+
+#EXTINF:-1 group-title="6.SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",ASSP HD 
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_token=oNnNMlQM3k
+
+#EXTINF:-1 group-title="6.SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",ASSP2 HD 
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186388&extension=ts&play_token=oNnNMlQM3k
+
+#EXTINF:-1 group-title="6.SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",ASSP3 HD 
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extension=ts&play_token=oNnNMlQM3k
+
+#EXTINF:-1 group-title="6.SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",ASSP4 HD 
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186390&extension=ts&play_token=oNnNMlQM3k
+
+
+
+#################################################################### 7.DOCUMENTARY ####################################################################
+
+##EXTINF:-1 group-title="7.DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png", HISTORY HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_2022_v1.png",History 
+#EXTINF:-1 group-title="7.DOCUMENTARY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_2022_v1.png",History 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png",National Geographic HD 
+#EXTINF:-1 group-title="7.DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png",National Geographic HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png",National Geographic HD 
+#EXTINF:-1 group-title="7.DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png",National Geographic HD 
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD 
+#EXTINF:-1 group-title="7.DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD 
+#EXTINF:-1 group-title="7.DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD 
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Earth.png",BBC Earth 
+#EXTINF:-1 group-title="7.DOCUMENTARY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Earth.png",BBC Earth 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png", BBC Earth 
+#EXTINF:-1 group-title="7.DOCUMENTARY" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png", BBC Earth 
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Earth.png",BBC Earth 
+#EXTINF:-1 group-title="7.DOCUMENTARY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Earth.png",BBC Earth 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png", ANIMAL PLANET HD 
+#EXTINF:-1 group-title="7.DOCUMENTARY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png", ANIMAL PLANET HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",Animal Planet 
+#EXTINF:-1 group-title="7.DOCUMENTARY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",Animal Planet 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png", DISCOVERY HD 
+#EXTINF:-1 group-title="7.DOCUMENTARY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png", DISCOVERY HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png",Discovery 
+#EXTINF:-1 group-title="7.DOCUMENTARY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png",Discovery 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png",Discovery Channel HD 
+#EXTINF:-1 group-title="7.DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png",Discovery Channel HD 
 https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png", DISCOVERY ASIA 
+#EXTINF:-1 group-title="7.DOCUMENTARY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png", DISCOVERY ASIA 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png",Discovery Asia 
+#EXTINF:-1 group-title="7.DOCUMENTARY" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png",Discovery Asia 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default.mpd
 
-################################################################## ISLAMIC #################################################################################### 
 
-#EXTINF:-1 group-title="ISLAMIC",Eman Channel (576p) [Mekah]
+################################################################## 8.ISLAMIC #################################################################################### 
+
+#EXTINF:-1 group-title="8.ISLAMIC" tvg-id="AlQuranAlKareemTV" tvg-logo="https://i.imgur.com/0aMNwQa.png",Al Quran Al Kareem FHD (Makkah)
+#EXTVLCOPT:network-caching=1000
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/qurantvsa
+
+#EXTINF:-1 group-title="8.ISLAMIC" tvg-id="AlSunnahAlNabawiyahTV" tvg-logo="https://i.imgur.com/84nqj99.png",Al Sunnah Al Nabawiyah FHD (Medina)
+#EXTVLCOPT:network-caching=1000
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/sunnatvsa
+
+#EXTINF:-1 group-title="8.ISLAMIC",Eman Channel (576p) [Mekah]
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 
-#EXTINF:-1 group-title="ISLAMIC",Ahlulbayt TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="8.ISLAMIC",Ahlulbayt TV (1080p) [Not 24/7]
 http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="ISLAMIC",British Muslim TV (576p) [Not 24/7]
+#EXTINF:-1 group-title="8.ISLAMIC",British Muslim TV (576p) [Not 24/7]
 https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 
-#EXTINF:-1 group-title="ISLAMIC",Deen TV (576p) [Not 24/7]
+#EXTINF:-1 group-title="8.ISLAMIC",Deen TV (576p) [Not 24/7]
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 
-#EXTINF:-1 group-title="ISLAMIC",Deen TV (576p) [Not 24/7]
+#EXTINF:-1 group-title="8.ISLAMIC",Deen TV (576p) [Not 24/7]
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 
-#EXTINF:-1 group-title="ISLAMIC",Eman Channel (576p)
+#EXTINF:-1 group-title="8.ISLAMIC",Eman Channel (576p)
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 
-#EXTINF:-1 group-title="ISLAMIC",Fadak TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="8.ISLAMIC",Fadak TV (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UC2ZoBzeCXrZcMz4f82eMe-g.m3u8
 
-#EXTINF:-1 group-title="ISLAMIC",Islam Channel (576p) [Not 24/7]
+#EXTINF:-1 group-title="8.ISLAMIC",Islam Channel (576p) [Not 24/7]
 https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8
 
+########################################################## CHINESE ############################################################################################
 
-############# RADIO #########
+#EXTINF:-1 group-title="CHINESE"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png", iQIYI HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+
+#EXTINF:-1 group-title="CHINESE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png", iQIYI HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default.mpd
+
+#EXTINF:-1 group-title="CHINESE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Magic.png",TVB Magic 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5107/default.mpd
+
+#EXTINF:-1 group-title="CHINESE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png", CELESTIAL HD 
+https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#EXTINF:-1 group-title="CHINESE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png",Celestial Movies HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
+
+#EXTINF:-1 group-title="CHINESE"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png", CCM 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
+
+#EXTINF:-1 group-title="CHINESE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png",CCM 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
+
+###################################################################### KOREAN #################################################################################
+
+#EXTINF:-1 group-title="KOREA"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png",KBS World 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
+
+#EXTINF:-1 group-title="KOREA"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png", KBSW HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
+
+#EXTINF:-1 group-title="KOREA"  tvg-logo="https://aqfadtv.xyz/logos/ONE.png",ONE 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
+
+#EXTINF:-1 group-title="KOREA"  tvg-logo="https://aqfadtv.xyz/logos/ONE.png", ONE HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default.mpd
+
+#EXTINF:-1 group-title="KOREA"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png",K Plus 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+
+#EXTINF:-1 group-title="KOREA"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png", KPLUS 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
+
+#EXTINF:-1 group-title="KOREA"  tvg-logo="https://aqfadtv.xyz/logos/tvN.png",tvN 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+
+#EXTINF:-1 group-title="KOREA"  tvg-logo="https://aqfadtv.xyz/logos/tvN.png", tvN HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default.mpd
+
+#EXTINF:-1 group-title="KOREA"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+
+#EXTINF:-1 group-title="KOREA"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
+
+
+################################################################## RADIO #################################################################################### 
 
 #EXTINF:-1 group-title="RADIO" group-title="Malaysia",Nasional FM
 https://23693.live.streamtheworld.com/NASIONAL_FMAAC.aac
@@ -696,3 +619,106 @@ https://os8ncq.bn.files.1drv.com/y4msw_INM7T5PYVeetJc4Yk5t78BXaBIjVgZ6LaxPaQ_KPj
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/mcu19.png" group-title="MOVIE 2023",Black Panther (2018) 
 http://abf.filmbluray.id/gauugz2
+
+
+################################################################## MY OFFLINE ##################################################################
+
+
+EXTINF:-1 group-title="MY OFFLINE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV 3 
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/ 
+https://aqfadtv.xyz/live/tv3/index.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529469_ico.png?ts=1658212163",TV 3 (B)
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://didik.tv/images/logotv2.png", NTV7 
+https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/ https://aqfadtv.xyz/live/didiktvkpm/index.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/8TV_%28Malaysia%29_logo_in_English.svg/640px-8TV_%28Malaysia%29_logo_in_English.svg.png", 8TV 
+https://aqfadtv.xyz/live/8tv/index.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/476px-TV9_Malaysia_Logo_2021.png", TV9 
+https://aqfadtv.xyz/live/tv9/index.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD 
+https://centerrrs.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9X1Uzxq6NAAqGASx47cKgqfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080121%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080121%2Curn:Huawei:liveTV:iptv47777%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOXQuCMBiF_80uR5s25sWuiiCIFWTdxuv2usTpbLOgf5-WXZ6P53DGCAb3W1Wtpcmx4NbWeV5gNWkQmQCb1RIlCpLwoYPixID3Te90sDN2PW9ubEVXlHNGGSflPLfz4JamfnYVRpX9sTPGV2NQ2VTTFyQKzkV0MDahpycP70v0S4VguVxjQhRc5oJzIRkZZ7eE1E4JuUPahG6AiPYQ3BdQNfiEZADTgkMNHar-6f2PO0Y7vfkAzoOp1vQAAAA&tenantId=6001
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",SENSASI 
+http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3606.mpd https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=rKYifC4cgUH4ajqf5oEB0Z2I03cm4d2TMQnQ6CSa3m3t3RxCUoK5rFP47blvMbDbJxhCD7QhYxY3hz3Xy08%2F4ggYU9UMh1fxCV547C0d2qBt5J0dsgfU28LWZM15p3G2%3A20230918144514%3AUTC%2C10001003897360%2C27.125.250.92%2C20230918144514%2Curn:Huawei:liveTV:SP000004015718%2C10001003897360%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0006%2C%2C%2C2%2C10000106865763%2C0%2C10000104587428%2C3028494234%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.165_80&hms_devid=1765&mag_hms=1765,1788,1794,1792&mount=1000002&targetdev=1765&it=H4sIAAAAAAAAAzWMTQsCIRQA_43Hx_qxlQdPRdBFgq2u8dSXCLaSbgv9-9qo6zAzU0VPh53ZcOo7J1FprpSSQeverYLQH0RerR1r9LDFSOYx5zRGW8KSXYbtlXfQgRAcJGenZbfPGI34mvZ5d1QN_2cD1Tl5MqHdYMYGGGOliFMqIxwzvs41_5Q30mXu4pkAAAA
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Hypp Inspirasi 
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live29.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", DEGUP 
+https://centerrrs.hypp.tv/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png",SIAR 
+https://centerrrs.hypp.tv/PLTV/88888888/224/3221227948/3221227948.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=nR3IWnuvgquP%2F8My8iyxx%2BoxnuQhQQA9yraVG9ZBgJG7lGYp3EaTqDAXfA4S%2BPVgQpTIHrOhXCgOoaP1Jv59qvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124221801%3AUTC%2C1001767138%2C27.125.242.143%2C20221124221801%2Curn:Huawei:liveTV:XTV56919296%2C1001767138%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C3073678270%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOywrCMBRE_ybLkEfjY5GVIghSBatbuUluY2naaFIF_16rdTszZzhDAovbtXa1xDmzxihbFMViaRTjzjFVc4NWMiAZ72XUglgIoel9Gd2InY-rC2eUUSE45YJU490mgJ-W5aMzmLT8Y0dMz8aidrmmT8gUvE_oYWhiTw8BXqcUpgnBalLjs9lSSrVQc6kEGca0gtx-GnKFvIrdDRK6XfRfQNcQMpIb2BY8ltCh7h8h_Lh9ch-bN5RyWgv0AAAA&tenantId=6001
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310",Dunia Sinema HD 
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8 
+#https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5 
+https://live.mana2.my/Tv5/index.m3u8?auth_key=1695109345-fabcb559a7c14e57850a164ec09d47bc-0-cde4b57c991b35fe0d2dded6c5600e97&token=1695109345-fabcb559a7c14e57850a164ec09d47bc-0-cde4b57c991b35fe0d2dded6c5600e97
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6 
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png", TV ALHIJRAH 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",SUKE TV 
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1695109423-313e465d55b14e4dbce188898320f7ce-0-3ee9f7ddcd714af1e1f1f4814fd31c63&token=1695109423-313e465d55b14e4dbce188898320f7ce-0-3ee9f7ddcd714af1e1f1f4814fd31c63
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVSarawak.png", TVS 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png",TV Okey 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png", Awesome TV 
+https://aqfadtv.xyz/live/awesometv/index.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/23
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 
+https://us.dispatch.ulivetv.net/v/live/cg49a7nnj64g.m3u8?stream_id=cg49a7nnj64g&timestamp=1695742025&rand=qKW2DPbXcM&uuid=jHpT5hpwmLn4sdQFSc6dnt&from=web&sign=cbed8a8b0a5374dc51676dd347e08c3c|referer=https://www.histar.tv
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", OASIS HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+https://us.dispatch.ulivetv.net/v/live/cg4ao9s4cbeo.m3u8?stream_id=cg4ao9s4cbeo&timestamp=1695741549&rand=JOh9Xftyg5&uuid=aXLvgeKovvvZBwiur48g83&from=web&sign=7930733c915433a226d9758e4b60b41d|referer=https://www.histar.tv
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", AURA HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi HD 
+http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts https://co2-bks400-05.starhubgo.com/bpk-token/2ab@ltq53pwlc4x5jspmlp4c4b51520e2p5tlnq3uxca/bpk-tv/HubSensasiHD/output/manifest.mpd?bkm-query
+
+#EXTINF:-1 group-title="MY OFFLINE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png",Colors HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png", COLORS HD 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png", COLORS TAMIL 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png", THANGATHIRAI HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png",Box Office Bollyone HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png",Zee Cinema HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
+
+#EXTINF:-1 group-title="MY OFFLINE"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png", Zee Cinema 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
+
