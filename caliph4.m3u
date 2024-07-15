@@ -1,6 +1,6 @@
 #EXTM3U
 ####https://labah2.github.io/caliph.mediagroup/caliph4.m3u####
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="101" tvg-id="101" tvg-chno="501" tvg-logo="",ASTRO AWANI
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="101" tvg-id="101" tvg-chno="501" tvg-logo="",AWANI
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1721056006/ei/puaUZobBAui3kucP4PGP6Ao/ip/20.109.38.34/id/ARgkWxPtJIE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-p5qddn7r.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAdbxfWYv5jr_mzUZ035XPQVxyz0HuJyzklViRJVc2exRZzOReCDfJRNeP6I/vprv/1/playlist_type/DVR/mh/rh/mm/44/mn/sn-p5qddn7r/ms/lva/mv/u/mvi/5/pl/16/dover/11/pacing/0/keepalive/yes/mt/1721033830/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAIs4ac3RiBu_IHhdIOtuWRVePciiQIlJrF9ks-X2_8NkAiEAgxZm8sdONPU02W6MWDgmUG9sDtxkE2_vpjqCuW2sd3s%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAJ5Sw6ilvnY812owwzCt9ZNh-EOC_dmoHDCvcfpWth_hAiA9MMGrbYIegBpqd9D0bOREhNLLgwKd3dehq3uM6XkPfg%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1
