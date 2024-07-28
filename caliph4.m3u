@@ -199,115 +199,69 @@ http://cord-cutter.net:8080/n8buxG/222085/16130
 
 ################################## TV INDONESIA ##############################################################
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="TV INDONESIA�", MNCTV HD
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
  
- 
- 
- 
- 
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/x6rFRdn/rcti.png",RCTI HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="TV INDONESIA�"catchup="" tvg-logo="https://i.ibb.co/x6rFRdn/rcti.png",RCTI HD
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
  
- 
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="TV INDONESIA�"catchup="", GTV HD
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
  
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XW1NSrF/inews.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", iNews 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XW1NSrF/inews.png" group-title="TV INDONESIA�"catchup="", iNews 
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
  
- 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="🇮🇩 NASIONAL 🇮🇩",INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="TV INDONESIA�",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
  
- 
-#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="🇮🇩 NASIONAL 🇮🇩",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="TV INDONESIA�",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png" group-title="🇮🇩 NASIONAL 🇮🇩",Moji HD 
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png" group-title="TV INDONESIA�",Moji HD 
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298550
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png" group-title="TV INDONESIA�"catchup="", Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr3.dens.tv/s/s41/index.m3u8
  
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/LJ54PbT/mentaritv-big-copy.png" group-title="🇮🇩 NASIONAL 🇮🇩", MENTARI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/LJ54PbT/mentaritv-big-copy.png" group-title="TV INDONESIA�", MENTARI TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
  
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png", Trans7 hd
+#EXTINF:-1 group-title="TV INDONESIA�" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png", Trans7 hd
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png", Trans7 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
+
+#EXTINF:-1 group-title="TV INDONESIA�" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png", Trans7 
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
  
-#EXTINF:-1 tvg-id="TransTV.id"  tvg-logo="https://i.ibb.co/48nTMzT/transtv.png" group-title="🇮🇩 NASIONAL 🇮🇩",TransTV HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+#EXTINF:-1 tvg-id="TransTV.id"  tvg-logo="https://i.ibb.co/48nTMzT/transtv.png" group-title="TV INDONESIA�",TransTV HD
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
  
- 
- 
- 
- 
- 
- 
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/YjTJ1zY/antv-big-copy.png" group-title="🇮🇩 NASIONAL 🇮🇩", ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/YjTJ1zY/antv-big-copy.png" group-title="TV INDONESIA�", ANTV
 https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
  
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/YjTJ1zY/antv-big-copy.png" group-title="🇮🇩 NASIONAL 🇮🇩", ANTV hd
+#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/YjTJ1zY/antv-big-copy.png" group-title="TV INDONESIA�", ANTV hd
 http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
  
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCSLGcv/rtv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCSLGcv/rtv.png" group-title="TV INDONESIA�"catchup="", RTV
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nz94D2z/NET-TV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", NET. HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nz94D2z/NET-TV.png" group-title="TV INDONESIA�"catchup="", NET. HD
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
  
- 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/tvone.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",TV ONE HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90204c05545f95a262bb0d3ac45de870&key=0e80f2a19fdf8da476bf695cd9570bb2
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/tvone.png" group-title="TV INDONESIA�"catchup="",TV ONE HD
 https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|referer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/swc6Jsm/kompas.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swc6Jsm/kompas.png" group-title="TV INDONESIA�"catchup="", Kompas TV
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
  
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4497473c5b978655ce62de7873e04174&key=6af319f8d82351f8c3b18c9abdfdef4d
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://static.mncnow.id/images/channel/827de67d-d31.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] METRO TV
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://static.mncnow.id/images/channel/827de67d-d31.png" group-title="TV INDONESIA�"catchup="" group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] METRO TV
 https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|referer=https://www.visionplus.id/
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wgj9zVS/cnn.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", CNN Indonesia*
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wgj9zVS/cnn.png" group-title="TV INDONESIA�"catchup="", CNN Indonesia*
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RgQqxJh/tvri.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",TVRI
+
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9qNN0pq/Berita-Satu-English-red.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",BERITA SATU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9qNN0pq/Berita-Satu-English-red.png" group-title="TV INDONESIA�"catchup="",BERITA SATU
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 ################################################### TV KIDS ###################################################################
@@ -1226,70 +1180,53 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/157457
 #EXTINF:-1 group-title="TV SUKAN" tvg-id="truesports3.th" tvg-logo="https://i.ibb.co.com/6HZvmZ9/FOX.png",FOX SPORTS SPORTSTIME OHIO HD
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/2327
 
-#################################################### olimpik #########################################
+#################################################### TV OLIMPIK #########################################
 
-#EXTINF:-1 group-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="Olympic Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",780
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94fae17e4d15e1cd0bdc7ced096fa510:e19b697fdedc5b0cf0ad5068de13d0a9
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 group-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png" group-title="TV OLIMPIK" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",780
 https://00webhost.ayetbhs326.workers.dev /https://mearjitp02-playback.astro.com .my/dash-wv/linear/5154/default.mpd
 
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",781
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1604ec11358c6c88102bef8ab5bdca10:c6a09b1d801d3631cd77da486578ddf6
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 group-title="TV OLIMPIK" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",781
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5151/default.mpd
 
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",782
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6afe246b3db067df837fafc06778d10:7c7a98236c7dcce43f1269190060b8a0
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 group-title="TV OLIMPIK" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",782
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5152/default.mpd
 
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",783
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=64a8f08490d91ded89f977d85878d110:a1c391c1ea515756d5272972d6bbd729
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 group-title="TV OLIMPIK" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",783
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5153/default.mpd
 
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",784
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8cb67b7fa34de61532947254309d4d10:288e7f89c9c8726d880753ddaf9e70ed
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 group-title="TV OLIMPIK" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OLY_Paris_2024.png",784
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5154/default.mpd
 
-
 #EXTINF:-1 group-title="LIVE EVENT" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c7472794a9ca6477515b123ec178579:6a5581ce501ae448e16b51481d464584
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17477_stream.mpd?hdnts=exp=1721847265~acl=/drm/dash/*~id=164396008~hmac=1b0b3d1fff8e80711daf704d851680c347d1b062b81708b307ed1b14efc7c417
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-name="" tvg-country="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2osDgq1_OY0TfIVcqJjvpgtdhD0zjSE4fA&s", LIVE 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6645df7a0df55d9e8cdba1546ff20f2b:a32d96ec6e2ebbfb2135ec50613f8428
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17478_stream.mpd?hdnts=exp=1721847364~acl=/drm/dash/*~id=164396008~hmac=7b40488e191c4528811806cb699138653a14b522a5a5f89d640966704bcdd93e
 
-
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 1
+#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="TV OLIMPIK",MU (Olympics) Eurosport 1
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282297
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 2
+
+#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="TV OLIMPIK",MU (Olympics) Eurosport 2
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282296
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 3
+
+#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="TV OLIMPIK",MU (Olympics) Eurosport 3
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282295
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 4
+
+#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="TV OLIMPIK",MU (Olympics) Eurosport 4
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282294
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 5
+
+#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="TV OLIMPIK",MU (Olympics) Eurosport 5
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282293
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 6
+
+#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="TV OLIMPIK",MU (Olympics) Eurosport 6
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282292
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 7
+
+#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="TV OLIMPIK",MU (Olympics) Eurosport 7
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282291
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="TV OLIMPIK",MU (Olympics) Eurosport 8
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282290
-#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="VIP Olympic Games Paris 2024",MU (Olympics) Eurosport 9
+
+#EXTINF:-1 tvg-ID="" tvg-name="MU (Olympics) Eurosport 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd_a9JLuGJLRC-4ZYc6ZrXXe9Fp2Oohm5Wo0N2FAjacex4JpvR43o_nDE5NX_yBksTLs&usqp=CAU" group-title="TV OLIMPIK",MU (Olympics) Eurosport 9
 http://select-iptv.net:80/Mariokroby/s36cm3h3pf/1282289
 
